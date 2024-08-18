@@ -1,3 +1,5 @@
+Link to finished example project: https://dazzling-crumble-2a96c0.netlify.app
+
 # Getting Started
 Install the dependencies and run the project
 ```
